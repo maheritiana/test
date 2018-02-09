@@ -54,7 +54,7 @@
 		</p>
 
 		<button onclick="semantique()">Organiser sémantiquement le texte</button>
-		<button onclick="colorer()">Colorer le texte</button>
+		<button onclick="colorer()">Colorer le textes</button>
 		<button onclick="mettreTitres()">Mettre des titres</button>
 		<button onclick="liensEnBoutons()">Transformer les liens en	boutons</button>
 		<button onclick="dupliquerTexte()">Dupliquer le texte</button>
