@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2bf0a01a-07f1-4d41-8d48-4c882db7a509" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tp.php" afterPath="$PROJECT_DIR$/tp.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,13 +17,13 @@
       <file leaf-file-name="tp.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tp.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="63" column="51" lean-forward="true" selection-start-line="63" selection-start-column="51" selection-end-line="63" selection-end-column="51" />
+            <state relative-caret-position="170">
+              <caret line="64" column="65" lean-forward="false" selection-start-line="64" selection-start-column="65" selection-end-line="64" selection-end-column="65" />
               <folding>
-                <marker date="1518171626529" expanded="true" signature="4057:4066" ph="..." />
-                <marker date="1518171626529" expanded="true" signature="4122:4133" ph="..." />
-                <marker date="1518171626529" expanded="true" signature="4191:4203" ph="..." />
-                <marker date="1518171626529" expanded="true" signature="4259:4269" ph="..." />
+                <marker date="1518172553544" expanded="true" signature="4058:4067" ph="..." />
+                <marker date="1518172553544" expanded="true" signature="4123:4134" ph="..." />
+                <marker date="1518172553544" expanded="true" signature="4192:4204" ph="..." />
+                <marker date="1518172553544" expanded="true" signature="4260:4270" ph="..." />
               </folding>
             </state>
           </provider>
@@ -114,12 +113,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1518170881500</updated>
-      <workItem from="1518170887814" duration="703000" />
+      <workItem from="1518170887814" duration="1307000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="703000" />
+    <option name="totallyTimeSpent" value="1307000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
@@ -157,13 +156,13 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/tp.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="63" column="51" lean-forward="true" selection-start-line="63" selection-start-column="51" selection-end-line="63" selection-end-column="51" />
+        <state relative-caret-position="170">
+          <caret line="64" column="65" lean-forward="false" selection-start-line="64" selection-start-column="65" selection-end-line="64" selection-end-column="65" />
           <folding>
-            <marker date="1518171626529" expanded="true" signature="4057:4066" ph="..." />
-            <marker date="1518171626529" expanded="true" signature="4122:4133" ph="..." />
-            <marker date="1518171626529" expanded="true" signature="4191:4203" ph="..." />
-            <marker date="1518171626529" expanded="true" signature="4259:4269" ph="..." />
+            <marker date="1518172553544" expanded="true" signature="4058:4067" ph="..." />
+            <marker date="1518172553544" expanded="true" signature="4123:4134" ph="..." />
+            <marker date="1518172553544" expanded="true" signature="4192:4204" ph="..." />
+            <marker date="1518172553544" expanded="true" signature="4260:4270" ph="..." />
           </folding>
         </state>
       </provider>

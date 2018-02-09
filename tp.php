@@ -62,7 +62,7 @@
 		<button onclick="regrouperLiens()">Regrouper les liens</button>
 		<button onclick="viderBoutons()">Vider les boutons</button>
 		<button onclick="enleverLiens()">Enlever les liens</button>
-		<button onclick="enleverGras()">Enlever le texte en gras</button>
+		<button onclick="enleverGras()">Enlever le texte en gras2</button>
 		<button onclick="enleverItalique()">Enlever le texte en	italique</button>
 		<button onclick="enleverDecor()">Enlever le texte décoré</button>
 		<button onclick="voirCode()">Voir le code</button>
